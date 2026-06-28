@@ -159,7 +159,7 @@ public class Pranay {
 
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRANAYKHOJARE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYKHOJARE&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYKHOJARE&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PRANAYKHOJARE&theme=tokyonight&hide_border=true)
 
