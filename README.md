@@ -21,7 +21,7 @@ public class Pranay {
     boolean openToWork = true; // immediate joiner
 
     String[] building  = {
-        "Spring Boot REST APIs with JWT & Swagger",
+        "Spring Boot REST APIs with JWT, JPA & Swagger",
         "React + TypeScript frontends",
         "Azure Cloud deployments (AZ-900 in progress)"
     };
@@ -45,21 +45,23 @@ public class Pranay {
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Cloud & Database**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,63 +70,52 @@ public class Pranay {
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🏆 Key Achievements
 
-- 🧩 **LeetCode** — 313+ problems solved · ~92% beats rate · **Top 0.5% globally** in Weekly Contest 504 (Rank ~138–159 / 31,500+ participants, perfect 19/19 score) · [@khojarepranay6](https://leetcode.com/khojarepranay6)
-- ☁️ **Azure Data Factory** — Built ETL pipelines during AICTE Microsoft internship (Sep 2025 – Feb 2026)
+- 🧩 **LeetCode** — 313+ problems solved · ~92% beats rate · **Top 0.5% globally** in Weekly Contest 504 (Rank ~138–159 / 31,500+ participants, perfect 19/19 score) · [@khojarepranay6](https://leetcode.com/u/khojarepranay6/)
+- ☁️ **Azure Data Factory** — Designed ETL pipelines using Copy Activity, Data Flows & trigger-based scheduling, reducing manual data processing by 30%
 - 🤖 **AI Placement Predictor** — 85% accuracy ML model trained on 10,000+ student records
-- 🛡️ **Network Intrusion Detection System** — AI-based NIDS deployed on Hugging Face
+- 🛡️ **Network Intrusion Detection System** — Random Forest model improving detection accuracy by 35% on KDD Cup dataset, deployed live on Hugging Face via Streamlit
 - 🎤 **AWS Summit Bengaluru 2026** — Attended in person
 
 ---
 
 ## 📂 Featured Projects
 
-### 🛒 [CreatorStore](https://github.com/PRANAYKHOJARE)
-> Spring Boot e-commerce backend with React-served admin frontend
+### 🛒 [CreatorStore – E-Commerce Admin Panel](https://github.com/PRANAYKHOJARE/SpringBoot-CreatorStore) `May 2026 – Jun 2026`
+> Full-stack store management system with Spring Boot backend and React admin dashboard
 
-- Full REST API with JWT authentication, JPA, and Swagger docs
-- Supabase/PostgreSQL database, deployed on Render
-- **Stack:** Spring Boot · React · Supabase · PostgreSQL · JWT · Swagger
-
----
-
-### 💻 [Vibe Code Editor](https://github.com/PRANAYKHOJARE)
-> Browser-based IDE — code, run, and AI-assist in the browser
-
-- Monaco Editor + WebContainers for in-browser execution
-- Ollama AI integration, JWT auth, OAuth 2.0
-- **Stack:** Next.js · Monaco Editor · WebContainers · Ollama · OAuth 2.0
+- Product CRUD, inventory management, and order processing with 3-entity clean architecture
+- Automatic inventory updates and delivery status tracking: Pending → Confirmed → Delivered
+- Deployed backend on **Railway**, frontend on **Vercel**
+- **Stack:** Java · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL · Supabase · REST APIs · Maven · HTML/CSS/JS
 
 ---
 
-### 🧠 AI-Based Placement Readiness Predictor
-> ML model predicting student placement outcomes at 85% accuracy
+### 💻 [Vibe Code Editor – AI-Powered Browser IDE](https://github.com/PRANAYKHOJARE) `Oct 2025 – Nov 2025`
+> Browser-based IDE with real-time code execution across 40+ languages and AI assistance
 
-- Trained on 10,000+ records from AICTE internship program
-- **Stack:** Python · Scikit-learn · Azure · Pandas
-
----
-
-### 🚗 [CarHub](https://pranayshowroom.vercel.app)
-> Modern car showcase app with real vehicle data
-
-- NHTSA API + Unsplash integration, smooth Framer Motion animations
-- **Stack:** React 19 · Framer Motion · NHTSA API · Vercel
+- Reduced developer onboarding time by 40% with in-browser execution via WebContainers
+- Secure auth with NextAuth + OAuth 2.0, persistent storage via Prisma + MongoDB
+- Ollama AI integration for in-editor assistance
+- **Stack:** Next.js · TypeScript · Monaco Editor · WebContainers · Prisma · MongoDB · JWT · Ollama
 
 ---
 
-### ✅ [Sweet Tasks](https://todoreactapp-omega.vercel.app)
-> Full-stack MERN Todo app with auth dashboard
+### 📋 [Complaint Management System](https://github.com/PRANAYKHOJARE/complaint-management-system-Final-Year-Project-BE-) `Apr 2025 – Aug 2025`
+> Role-based institutional grievance platform — Final Year Project
 
-- **Stack:** MongoDB · Express · React · Node.js · Vite
+- Processed 500+ complaints across 3 user roles (Student, Staff, Admin) with 30% faster resolution
+- Centralized admin dashboard with priority tracking: Pending → In-Progress → Resolved
+- **Stack:** Java · Servlets · JDBC · RBAC · MVC · MySQL · Apache Tomcat · HTML/CSS/JS
 
 ---
 
@@ -136,31 +127,29 @@ public class Pranay {
 │     Software Intern · On-site, Pune
 │
 2025 ──────────────────────────── 2026
-│  🟩 AICTE Internship — Microsoft (Azure)
-│     Azure Data Factory · ETL Pipelines · Cloud Data Engineering
-│
-2025 ──────────────────────────── 2025
-│  🟨 AICTE Internship — VOIS / Edunet · IBM
-│     AI & Cloud tracks
+│  🟩 AICTE Internship — Microsoft Elevate · VOIS x Edunet · IBM SkillsBuild
+│     Azure Data Factory · ETL Pipelines · AI/ML · Cloud Data Engineering
 │
 🎓  Sant Gadge Baba Amravati University
-    B.E. Information Technology · CGPA 8.22 · 2025
+    B.E. Information Technology · CGPA 8.22 · 2022–2025
 ```
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Achievements
 
-| Certification | Issuer | Status |
+| Certification | Issuer | Date |
 |---|---|---|
+| Oracle Agentic AI Foundations Associate | Oracle | Jun 2026 |
+| Microsoft AI Skills Fest 2026 | Microsoft | Jun 2026 |
+| Claude Code 101 – Agentic AI Development | Anthropic | May 2026 |
 | AZ-900 Azure Fundamentals | Microsoft / Pearson VUE | 🔄 In Progress |
 | LeetCode 75 | LeetCode | ✅ Completed |
-| Claude Code 101 | Anthropic | ✅ Completed |
 | Problem Solving Intermediate | HackerRank | ✅ Completed |
 | Java (Basic & Intermediate) | HackerRank | ✅ Completed |
 | SQL (Basic) | HackerRank | ✅ Completed |
 | AI FutureSkills | NASSCOM | ✅ Completed |
-| Microsoft Azure | Microsoft | ✅ Completed |
+| Python Training | IIT Bombay Spoken Tutorial | Dec 2024 |
 
 ---
 
@@ -182,9 +171,10 @@ public class Pranay {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaykhojare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-khojare-a23505211)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranaykhojare-portfolio.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/khojarepranay6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khojarepranay6/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/khojarepranay6)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRANAYKHOJARE)
 
 </div>
